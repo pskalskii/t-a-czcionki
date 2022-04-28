@@ -1,0 +1,35 @@
+body{
+    background-color: #fff;
+}
+
+section{
+    background-color: black;
+}
+
+h1{
+    background-color: grey;
+    color: blueviolet;
+
+}
+
+h1+p{
+    background-color:blue;
+    color: chocolate;
+}
+
+h2{
+    background-color: red;
+    color:goldenrod
+
+}
+
+h2+p{
+    background-color: green;
+    color:crimson
+
+}
+
+ol{
+    background-color: yellow;
+    color: black;
+}
